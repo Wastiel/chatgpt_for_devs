@@ -1,4 +1,4 @@
-# Formação ChatGPT for Devsw
+# Formação ChatGPT for Devs
 
 ![imagem apresentacao curso](./img/image.png)
 
