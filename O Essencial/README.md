@@ -189,3 +189,217 @@ Hoje vamos resolver o [Problema]<br>
 
 #### Transformando Formatos
 
+Conseguimos transformar o conteudo der uma página em formato de resumo de maneira rápida e simples. 
+
+#### Criandco resumos de livros de maneiras mais assertivas
+
+- Imagine que temos o livro e queremos um resumo do mesmo:
+    - Me resuma sobre o livro pai rico e pai pobre, formato de bullet points em voz simplificada. 
+
+- Outro exemplo:
+    - Me resuma o livro "Pai rico e pai pobre" em formato de bullet points em voz simplificada, resumindo os principais capitulos.
+
+Usamos esta tatica para relembrar de livros em tópicos ou até mesmo fazermos um post na internet, de livros que ja lemos ou estudamos. Sempre focando na ética.
+
+#### Criando um cronograma de estudos adaptado para o dia a dia
+
+Utilizado para criar cronogramas de estudos mais ricos.
+
+- Exemplo:
+    - Crie um cronograma de estudos sobre Angular, dividido em módulos e tópicos, aonde eu possa aprender Angular em 21 dias com apenas 3 horas de estudo por dia. 
+    - Crie um cronograma de estudos sobre para dominar JavaScript em módulos e tópicos, aonde eu possa aprender javaScript em 30 dias com apenas 2 horas de estudo por dia e organize por dias da semana.
+
+#### Crie cronograma de estudos baseados em vagas
+
+Imagine que nos deparamos com uma vaga, e tem conteudos sobre a determinada vaga:
+
+- Exemplo
+    - Crie um cronograma de estudos para que eu consiga estudar e me preparar para a vaga abaixo.
+
+#### Como Estudar conteúdos complexos com chatGPT
+
+Porque nao criar o chatGPT para um cronograma de estudos? 
+
+- Exemplo
+    - Me escreva um artigo resumido sobre introdução de engenharia de Dados, em um tom de voz, como se estivesse explicando para uma criança de 10 anos.
+    - Me explique como se fosse uma postagem do instagram em 10 slides feitasw por uma pagina nerd, usando a analogia ao naruto. 
+
+### Bem vindo ao verdadeiro chatGPT
+
+#### Utilizando Nosso prompt de maneira efetiva e assertiva
+
+Função: Me escreva um artigo.
+TIpo de Texto: Artigo para Linkedin.
+Assun: Programação, focada nos principais comandos Angular.
+Estilo: Artigo para minha rede de desenvolvedores.
+Tom de voz: Informal, para pessoas de tecnologia.
+
+{RESUMO}
+[Autoridade]: Felipe, um desenvolvedor Angular
+[Avatar]: Desenvolvedores iniciantes em Angular
+[Problema]: Lembrar os principais atalhos e comandos Angular
+
+{Roteiro}
+Olá eu sou [Autoridade] e vou ajudar o [Avatar] Hoje vamos resolver o [Problema]
+
+{REGRAS}<br>
+> siga o {ROTEIRO} acima e substitua os elementos entre [] por aqueles listados em {RESUMO} acima.<br>
+> Mantenha o tom e ritmo, mas reescreva as palavras em {ROTEIRO} para que seja diferente do original, expandidndo ou mudando conforme necessário.<br>
+> Use Analogias simples e hipérboles.<br>
+> Utilize um tom de voz para se comunicar com desenvolvedores não experientes.<br>
+> Escreva com uma emoção com uma emoção com senso de urgência e importância.
+
+#### Questionário
+
+Quais das características abaixo NÃO é necessariamente um bom prompt?
+DETALHADO
+GUIADO
+ENXUTO
+REGRAS
+ESPECÍFICO
+
+O Que é um Prompt?
+É o nome da inteligência artificial por trás do chatGPT
+É o nome da plataforma que hospeda o chatGPT
+Todas as alternativas estão corretas
+É o texto enviado para IA com a solicitação do que quero extrair
+Uma maneira de formatar dados via IA
+
+Qual das características abaixo define um prompt inteligente?
+Declarar prompts respeitando sinais do português
+Criar prompts específicos e com regras bem definidas
+Escrever tudo em maiúsculo
+Escrever de maneira persuasiva
+Pedir prompts em inglês
+
+O que define os 3 'R's de prompts inteligentes?
+React, Rules and Rise
+Resumo, Roteiro e Ruppes
+Regras, Resumo e Roteiro
+Regras, Resumo e Reação
+Roteiro, Reação e Resumo
+
+### Act Commands - Seu ChatGPT como Assistente Virtual
+
+#### Ligando as Atuações
+
+Como ter acesso a pessoas históricas ou pessoas experientes como desenvolvedores do google ou facebook. Hoje o Chat GPT lembra do que questionamos ou pedimos e isto abre margem para utilizarmos action coommands ou comandos de encenação e assim pedindo para o chatGPT se comportar como uma determinada pessoa. 
+
+### Act Commands que todo Dev deveria conhecer
+
+#### Comando de atuação
+Qual a ideia de um act commando? Vamos solicitar ao chatGPT para ele se comportar como uma determinada pessoa
+
+[Diversos act's prompts](https://github.com/f/awesome-chatgpt-prompts)
+
+#### Simulando um javaScript Console.
+
+Vamos solicitar ao chatGPT para ele atuar como JavaScript console.
+
+- Act as a JavaScript Console
+    - Entrada: console.log("Hellow World")
+    - Saida: Hellow World! 
+
+Podemos utilizar o GPT como se realmente estivessmos em um console de JS.
+
+#### Nunca mais mais dependa de Maquina Virtual
+
+Imagine você querer treinar suas habilidades como se fosse um terminal do linux, colocando em prática diversos comandos que estamos aprendendo.
+
+- Act as a Linux Terminal
+    - Entrada: ls
+    - Saída: Mostra diretórios para navegarmos
+    - Entrada: cd Documents
+    - Saída: entramos dentro da pasta documents.
+- O chatGPT acaba simulando um linux, sem termos uma maquina virtual.
+
+Muito utilizado para preparação de provas.
+
+#### Crie um Consultor especialista virtual UI-UX
+
+- Exemplo, nos auxiliar como UX
+    - Comporte-se como um consultor de UI/UX e sempre responda tudo com as dimensões da imagem e dicas de como implementar da melhor mamneira
+    - Estamos criando um banner e o meu youtube e alguns modelos de thumbnail
+
+
+#### Use o chatGPT como banco de dados
+
+Podemos usar o GPT como um console de banco de dados
+- act as a SQL terminal
+    - creat a table with name, age and descrition with 10 values randomics
+    - table name: tbl_users, name: text, age: numeric, descrition: text
+    - select * from tbl_users
+    - Show me result from tbl_users
+
+#### Commits semanticos com ChatGPT
+
+Podemos solicitar para o chat gpt ser um console de commit's
+- Act as commit message generator
+- Act as commit mesage generator aways semantic commits
+- fix the bug in login screen
+
+### Elevando o nível dos Act's Commands
+
+#### Atuação com Regras
+
+Imagine que você quer melhorar suas praticas em front-end, podemos pedir para o chatGPT ser o nosso senio e nos auxiliar
+
+- Exemplo:
+    - Comporte-se como se fosse um especialista de front-end sênior que está me orientando a programar melhor
+    - {REGRAS}
+    > Sempre que eu te informar o que estou fazendo faça um checklist de boas práticas de front-end
+    > Sempre que eu informar o que estou fazendo, ao final envie uma sugestão de código
+    - Esotu criando uma classe genérica para criar containers responsitvos utilizando REM como medida
+    - Quero salvar todas as cores do meu código css em varivavies, vou criar uma variavel para bg-main e outra para o bg-dark
+
+#### Ativando o modo tutorial de prompt do ChatGPT
+
+- Podemos pedir para o GPT trabalhar como um prompt ganerator
+    - Act as ChatGPT prompt Generator
+    - Entrada: How to create a rich folder structure for node apps
+    - Saída: Vai criar um prompt para termos um prompt rico 
+- Usamos ele mesmo para nos dar ideias de prompts, esta é a melhor maneira de utilizarmos o próprio chatGPT como tutorial.
+
+#### Criando uma ferramenta de posicionamento profissional
+
+- Utilizarmos o chat gpt como um coach:
+    - comporte-se como um coach de carreira técnica
+    {REGRAS}
+    > Me ajude no que postar, crie um calendário de sugestões de posts de engajamento para o meu linkedin
+    > Sempre fale de JavaScript: Sempre sugira posts refernete a JavaScript
+    > Me ajude a encontrar imagnes: sugira sites ou ferramentas para construir esssas imagens. 
+
+#### Criando versões artificiais de figuras famosas
+
+- Comporte-se como se fosse um personagem, for fun!
+- act as 'character' from 'pirates fo carribean'
+
+#### Questionários
+
+Qual das alternativas abaixo é uma verdade sobre Act Commands?
+Act Commands facilitam na hora de escrever tabelas
+Act Commands são pagos
+Act Commands facilitam as redes neurais a filtrarem as respostas dentro de um contexto
+Act Commands são metadados não visuais
+Todas as opções estão corretas
+
+Quais as vantagens de comandos de ação?
+Cria dados mais aleatórios
+Traz respostas mais enxutas
+Deixa o chatgpt mais rápido
+Facilita as próximas perguntas a serem respondidas no mesmo viés
+Nenhuma das opções
+
+A Relação de act commands está ligada principalmente a:
+CORES
+REGRAS
+TABELAS
+CONTEXTO
+GUIAS
+
+O que é um act command?
+Comandos que criam tabelas
+Comandos que apagam o histórico
+Comandos que deletam linhas
+Comandos para pedir para o chatgpt atuar como se fosse algo ou alguém
+Nenhuma das opções
